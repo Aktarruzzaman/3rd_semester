@@ -7,7 +7,7 @@ public class TimeTableDemo {
 
         int n,m;
         System.out.print("Enter Initital number=");
-        n = input.nextInt();
+           n = input.nextInt();
 
         System.out.print("Enter Final number:");
         m = input.nextInt();
